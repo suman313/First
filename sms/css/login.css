@@ -1,0 +1,14 @@
+body
+{
+background: url(../styleImages/john-westrock-V9rsiNN5flQ-unsplash.jpg) no-repeat center center fixed;
+background-size:     cover;
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.top-corner{
+    position: absolute;
+    top: 0;
+    right: 30px;
+}

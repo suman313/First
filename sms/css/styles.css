@@ -1,0 +1,17 @@
+a {
+    font-size: 20px;
+    color: cadetblue;
+    text-align: center;
+}
+.admin{
+
+}
+.style  {
+    text-align: center;
+}
+.topcorner{
+    position: absolute;
+    top: 0;
+    right: 15;
+    
+}
