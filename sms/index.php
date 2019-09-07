@@ -41,7 +41,7 @@ background-color:skyblue;
 </div>
 <div class="form-structure">
 <section>
-<h3>Student Information</h3>
+<h3>Student Details</h3>
 </section>
 <form name="form" action="./admin/studentinfo.php" method="post">
 <section>
